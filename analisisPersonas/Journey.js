@@ -34,54 +34,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Luis",
                 Photo: "man.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Quiere planificar sus entrenamientos de gimnasio",
+                touch1: "movil",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                con1: "buscar informacion y aprender como hacerlo",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
+                goal2: "Pregunta a la IA como planificarlos",
                 touch2: "Movil",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "la informacion que le da es demasiado generica y no se adapta a lo que necesita",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Decide buscar en internet paginas web que tengan ejercicios que poder hacer",
+                touch3: "móvil",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "Hay demasiados resultados y es dificil encontrar la que cumpla con sus expectativas",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
+                goal4: "Su GymBro le recomienda la pagina web que el usa",
+                touch4: "gym",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                con4: "No conoce aun la pagina y no sabe si le gustara",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
+                goal5: "Ve varias paginas y apps que recomiendan entrenamientos de gimnasio",
                 touch5: "móvil (whatsapp)",
                 feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                con5: "Pregunta a sus GymBros cual les parece mejor",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
+                goal6: "Prueba una app y realiza varias sesiones de entrenamiento con ella",
+                touch6: "gym",
                 feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                con6: "Va a perder un dia de gimnasio solo para probar la app y no sabe si sera eficaz",
                 ima6: "cartoon-resting.png",
                 
 			},
@@ -92,7 +92,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Maria",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
