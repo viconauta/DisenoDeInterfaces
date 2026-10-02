@@ -55,7 +55,7 @@ angular.module("angular", [])
                 
                 goal3: "Decide buscar en internet paginas web que tengan ejercicios que poder hacer",
                 touch3: "móvil",
-                feel3: "3",
+                feel3: "2",
                 con3: "Hay demasiados resultados y es dificil encontrar la que cumpla con sus expectativas",
                 ima3: "cartoon-phone.png",
                 
@@ -63,7 +63,7 @@ angular.module("angular", [])
                 
                 goal4: "Su GymBro le recomienda la pagina web que el usa",
                 touch4: "gym",
-                feel4: "4",
+                feel4: "5",
                 con4: "No conoce aun la pagina y no sabe si le gustara",
                 ima4: "cartoon-PCtyping.png",
                 
@@ -80,7 +80,7 @@ angular.module("angular", [])
                 
                 goal6: "Prueba una app y realiza varias sesiones de entrenamiento con ella",
                 touch6: "gym",
-                feel6: "3",
+                feel6: "2",
                 con6: "Va a perder un dia de gimnasio solo para probar la app y no sabe si sera eficaz",
                 ima6: "cartoon-resting.png",
                 
@@ -96,50 +96,50 @@ angular.module("angular", [])
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                goal1: "Se levanta una mañana y ve que le ha salido tripa que no recordaba tener",
+                touch1: "Espejo y bascula",
+                feel1: "2",
+                con1: "Quiere bajar de peso y estar en su linea",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                goal2: "Habla con sus amigas sobre su aumento de peso le recomiendan buscar un entrenador o usar una app para bajar de peso",
+                touch2: "Mensaje",
+                feel2: "3",
+                con2: "Pero no le gusta mucho hacer deporte",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
+                goal3: "Decide contactar con un entrenador personal",
                 touch3: "Móvil (llamada)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "Es demasiado caro",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Ve un anuncio en youtube de aplicaciones de entrenamiento que prometen entrenamientos para bajar de peso",
+                touch4: "Móvil",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "No consigue ver de forma clara como funciona la app sin meter la tarjeta de credito primero",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Prueba una app gratuita que encuentra internet",
+                touch5: "Ordenador",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                con5: "Son siempre los mismo ejercicios y no estan bien adaptados a su estado fisico",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                goal6: "Finalmente comienza a entrenar en casa 2 dias en semana",
+                touch6: "Movil(app)",
+                feel6: "3",
+                con6: "Valora buscar un nutricionista para perder peso mas rapido",
                 ima6: "cartoon-PChard.png",
                 
                 

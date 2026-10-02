@@ -54,7 +54,7 @@ angular.module("angular", [])
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Movil", Value: 5 },
 					{ Name: "RRSS", Value: 4 },
-					{ Name: "Software", Value: 4 }
+					{ Name: "Software", Value: 1 }
 					
 				], 
                 Contextos: "Quiere objetivos realistas para sus entrenamientos" ,  
@@ -95,7 +95,7 @@ angular.module("angular", [])
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Mobile", Value: 5 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 3 }
+					{ Name: "Software", Value: 1 }
 					
 				], 
                 Contextos:   "Poder disfutar de la comida los fin de semanas sin preocuparse de la trimpita de despues." ,
