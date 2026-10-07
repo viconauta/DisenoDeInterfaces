@@ -39,7 +39,7 @@ angular.module("angular", [])
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Quiere planificar sus entrenamientos de gimnasio",
-                touch1: "movil",
+                touch1: "Movil",
                 feel1: "4",
                 con1: "buscar informacion y aprender como hacerlo",
                 ima1: "cartoon-planning.png",
@@ -54,7 +54,7 @@ angular.module("angular", [])
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Decide buscar en internet paginas web que tengan ejercicios que poder hacer",
-                touch3: "móvil",
+                touch3: "Movil",
                 feel3: "2",
                 con3: "Hay demasiados resultados y es dificil encontrar la que cumpla con sus expectativas",
                 ima3: "cartoon-phone.png",
@@ -62,7 +62,7 @@ angular.module("angular", [])
                 /*** PASO #4: OBSERVA ***/ 
                 
                 goal4: "Su GymBro le recomienda la pagina web que el usa",
-                touch4: "gym",
+                touch4: "Gym",
                 feel4: "5",
                 con4: "No conoce aun la pagina y no sabe si le gustara",
                 ima4: "cartoon-PCtyping.png",
@@ -70,7 +70,7 @@ angular.module("angular", [])
                  /*** PASO #5: ANALIZA ***/ 
                 
                 goal5: "Ve varias paginas y apps que recomiendan entrenamientos de gimnasio",
-                touch5: "móvil (whatsapp)",
+                touch5: "Movil (whatsapp)",
                 feel5: "2",
                 con5: "Pregunta a sus GymBros cual les parece mejor",
                 ima5: "cartoon-phoning.png",
@@ -79,7 +79,7 @@ angular.module("angular", [])
                 /*** PASO #6: CONCLUSION ***/ 
                 
                 goal6: "Prueba una app y realiza varias sesiones de entrenamiento con ella",
-                touch6: "gym",
+                touch6: "Gym",
                 feel6: "2",
                 con6: "Va a perder un dia de gimnasio solo para probar la app y no sabe si sera eficaz",
                 ima6: "cartoon-resting.png",
@@ -104,7 +104,7 @@ angular.module("angular", [])
                 
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Habla con sus amigas sobre su aumento de peso le recomiendan buscar un entrenador o usar una app para bajar de peso",
-                touch2: "Mensaje",
+                touch2: "Movil(Whatsapp)",
                 feel2: "3",
                 con2: "Pero no le gusta mucho hacer deporte",
                 ima2: "cartoon-teamthinking.png",
@@ -112,7 +112,7 @@ angular.module("angular", [])
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Decide contactar con un entrenador personal",
-                touch3: "Móvil (llamada)",
+                touch3: "Movil (llamada)",
                 feel3: "2",
                 con3: "Es demasiado caro",
                 ima3: "cartoon-phoningangry.png",
@@ -120,7 +120,7 @@ angular.module("angular", [])
                 /*** PASO #4: OBSERVA ***/ 
                 
                 goal4: "Ve un anuncio en youtube de aplicaciones de entrenamiento que prometen entrenamientos para bajar de peso",
-                touch4: "Móvil",
+                touch4: "Movil",
                 feel4: "2",
                 con4: "No consigue ver de forma clara como funciona la app sin meter la tarjeta de credito primero",
                 ima4: "cartoon-phone-street.png",
