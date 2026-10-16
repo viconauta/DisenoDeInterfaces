@@ -2,10 +2,10 @@
 | ------------------------------------------------------------ | -------- | ---------------- | --------------- | ------------- | 
 | **Registrar un usuario**                                     | H        | L                | L               | L             |
 | **Iniciar/Cerrar sesion**                                    |          | H                | H               | H             |
-| **Recuperar contraseña**                                     |          | H                | M               | L             |
+| **Recuperar contraseña**                                     |          | M                | M               | L             |
 | Editar perfil usuario                                        |          | L                | L               | L             |
 | Preferencias de entreno                                      |          | M                | M               |               |
-| Cunsulta grupos musculares                                   | H        | H                | H               |               |
+| Consulta grupos musculares                                   | H        | H                | H               |               |
 | Filtros por musculo                                          |          | H                | H               |               |
 | Filtrar por equipamiento                                     |          | H                | H               |               |
 | Ficha detalles ejercicio con explicacion y video             | H        | H                | H               |               |
@@ -17,10 +17,10 @@
 | Rutina personalizada                                         |          |                  | H               |               |
 | **Editar rutinas**                                           |          |                  | H               |               |
 | Marcar / desmarcar favoritos                                 |          | M                | H               |               |
-| **Checklist pre-entreno de equipo necesario**                |          | M                | H               |               |
+| **Checklist pre-entreno de equipo necesario**                |          |                  | H               |               |
 | Iniciar / pausar / cancelar entreno                          | H        | H                | H               |               |
 | Ajustar peso y reps reales completadas por serie             |          | H                | H               |               |
-| **Temporizador de descanso con alerta**                      |          | H                | H               |               |
+| **Temporizador de descanso con alerta**                      |          |                  | H               |               |
 | **Video demostrativo durante la sesion**                     |          | H                | H               |               |
 | Guardar sesion de entreno completada                         |          | H                | H               |               |
 | Historial de entrenamientos                                  |          |                  | H               |               |
